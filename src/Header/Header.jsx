@@ -25,44 +25,10 @@ const Header = () => {
 
             <Outlet></Outlet>
 
-            {/* <footer className="bg-gray-900 text-white py-8 mt-20">
-                <div className="flex justify-start ml-20">
-                    <div className="mb-4 md:mb-0">
-                        <h2 className="text-2xl font-bold mt-20 ml-10">Independent University,Bangladesh</h2>
-                        <p className="text-gray-400 ml-10">Plot 16 Aftab Uddin Ahmed Rd, Dhaka 1229</p>
-                    </div>
-                </div>
-                <div className='flex justify-center'>
-                    <div className="w-full sm:w-auto text-center sm:text-left">
-                        <h3 className="text-xl font-bold text-white mb-4">Menu</h3>
-                        <ul className="list-none">
-                            <li><a href="#" className="text-gray-300
-                                hover:text-white">Home</a></li>
-                            <li><a href="#" className="text-gray-300
-                                hover:text-white">About Us</a></li>
-                            <li><a href="#" className="text-gray-300
-                                hover:text-white">Menu</a></li>
-                            <li><a href="#" className="text-gray-300 hover:text-white">Locations</a></li>
-                            <li><a href="#" className="text-gray-300
-                                hover:text-white">Contact Us</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div className="flex justify-end w-full sm:w-auto text-center">
-                    <h3 className="text-xl font-bold text-white mb-4">Newsletter</h3>
-                    <form>
-                        <div className="">
-                            <input type="email" placeholder="Enter your email address" className="bg-gray-700 rounded-l-lg px-4 py-2 w-56 sm:w-auto text-white focus:outline-none focus:ring-2 focus:ring-blue-500" />
-                            <button type="submit" className="bg-blue-500
-                                 hover:bg-blue-600 rounded-r-lg px-4 py-2 text-white focus:outline-none focus:ring-2 focus:ring-blue-500">Subscribe</button>
-                        </div>
-                    </form>
-                </div> 
-            </footer> */}
             <footer class="bg-gray-900 text-white py-8 mt-20">
                 <div class="container mx-auto flex flex-wrap justify-between">
                     <div class="flex flex-col items-start">
-                        <h2 class="text-2xl font-bold mb-4">Independent University, Bangladesh</h2>
+                        <h2 class="text-2xl font-bold mt-10 mb-4">Independent University, Bangladesh</h2>
                         <p class="text-gray-400">Plot 16 Aftab Uddin Ahmed Rd, Dhaka 1229</p>
                     </div>
                     <div class="flex flex-col items-center sm:items-start">
