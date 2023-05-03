@@ -21,10 +21,13 @@ const Menu = () => {
     let total = 0;
     for (const food of order){
         total = total + food.price;
+        console.log(total);
     }
     const tax = (total*2)/100;
+    console.log(tax);
 
     const grandTotal = total + tax;
+    console.log(grandTotal);
 
     return (
         <div className='foods-container px-20 mt-10'>
