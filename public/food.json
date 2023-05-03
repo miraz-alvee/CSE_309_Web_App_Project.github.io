@@ -1,0 +1,209 @@
+[
+    {
+        "id": 1,
+        "name": "Egg Khichuri",
+        "price": 60,
+        "ratings": 4,
+        "img": "../images/eggkichuri.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 2,
+        "name": "Beef Biriyani",
+        "price": 140,
+        "ratings": 4,
+        "img": "../images/beefbiriany.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 3,
+        "name": "Chicken Biriyani",
+        "price": 130,
+        "ratings": 4,
+        "img": "../images/chickenbiriany.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 4,
+        "name": "Chicken Grill & Nun",
+        "price": 130,
+        "ratings": 4,
+        "img": "../images/chicken gril & nan.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 5,
+        "name": "Chicken Roast",
+        "price": 80,
+        "ratings": 4,
+        "img": "../images/chickenroast.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 6,
+        "name": "Mutton Biriyani",
+        "price": 170,
+        "ratings": 4,
+        "img": "../images/mutton biriany.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 7,
+        "name": "Chicken Leg piece",
+        "price": 100,
+        "ratings": 4,
+        "img": "../images/chickenpis.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 8,
+        "name": "Apple Juice",
+        "price": 60,
+        "ratings": 4,
+        "img": "../images/applejuice.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 9,
+        "name": "Cake",
+        "price": 100,
+        "ratings": 4,
+        "img": "../images/cake.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 10,
+        "name": "Chowmin",
+        "price": 60,
+        "ratings": 4,
+        "img": "../images/chowmin.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 11,
+        "name": "Cup Cake",
+        "price": 100,
+        "ratings": 4,
+        "img": "../images/cup cake.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 12,
+        "name": "Chicken Leg piece",
+        "price": 20,
+        "ratings": 4,
+        "img": "../images/dal.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 13,
+        "name": "Pasta",
+        "price": 60,
+        "ratings": 4,
+        "img": "../images/pasta.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 14,
+        "name": "Telapiya Fish",
+        "price": 70,
+        "ratings": 4,
+        "img": "../images/telapiya fish.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 15,
+        "name": "Orang Juice",
+        "price": 40,
+        "ratings": 4,
+        "img": "../images/orange juice.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 16,
+        "name": "Papaya Juice",
+        "price": 40,
+        "ratings": 4,
+        "img": "../images/papaya juice.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 17,
+        "name": "Fanta",
+        "price": 25,
+        "ratings": 4,
+        "img": "../images/fanta.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 18,
+        "name": "Watermelon",
+        "price": 40,
+        "ratings": 4,
+        "img": "../images/watermelon juice.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 19,
+        "name": "Mixed Vegetable",
+        "price": 30,
+        "ratings": 4,
+        "img": "../images/mixed vegetable.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 20,
+        "name": "Rui Fish",
+        "price": 80,
+        "ratings": 4,
+        "img": "../images/rui fish.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 21,
+        "name": "Somosa",
+        "price": 10,
+        "ratings": 4,
+        "img": "../images/samosa.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 22,
+        "name": "Singra",
+        "price": 10,
+        "ratings": 4,
+        "img": "../images/singra.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": 23,
+        "name": "Sprite",
+        "price": 25,
+        "ratings": 4,
+        "img": "../images/sprite.jpg",
+        "shipping": 1,
+        "quantity": 0
+    }
+]
